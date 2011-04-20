@@ -1,1 +1,1 @@
-(define-package "magit" "0.8.1" "control Git from Emacs." (quote nil))
+(define-package "magit" "1.0.0" "Control Git from Emacs.")

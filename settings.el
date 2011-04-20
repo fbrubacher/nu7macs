@@ -1,3 +1,4 @@
+(add-to-list 'load-path " /usr/local/share/emacs/site-lisp/")
 (if (window-system)
     (progn
       (if (fboundp 'tool-bar-mode) (tool-bar-mode -1))
